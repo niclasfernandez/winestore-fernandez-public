@@ -1,0 +1,27 @@
+
+.detailButton {
+
+    text-decoration: none;
+
+
+}
+.wineCardDetails Button {
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    background-color: #672A4E;
+
+}
+
+
+.wineCardDetails {
+display: flex;
+flex-direction: column;
+align-content: center;
+justify-content: center;
+align-items: center;
+flex-wrap: nowrap;
+/* padding-top: 120px */
+}

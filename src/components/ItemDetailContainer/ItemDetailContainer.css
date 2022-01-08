@@ -1,0 +1,38 @@
+.detailButton {
+
+        text-decoration: none;
+
+    
+}
+.detailButton Button {
+
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 18px;
+        text-decoration: none;
+        color: white;
+        background-color: #672A4E;
+    
+}
+
+
+.wineCardDetails {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.someContainer {
+        overflow-x: hidden;
+        display: flex;
+        padding: 50px;
+        padding-top: 120px;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 100vw;
+        height: 100vh;
+}

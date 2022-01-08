@@ -1,0 +1,15 @@
+.cartContainer {
+    width: 90vw;
+    display: flex;
+    height: 100vh;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.cell{
+    color: "white";
+}

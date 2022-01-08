@@ -1,0 +1,15 @@
+
+.productContainer {
+    padding: 30px;
+    display: flex;
+    border-radius: 30px;
+    background-color: bisque;
+    width: 90vw;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+

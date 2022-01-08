@@ -1,0 +1,10 @@
+.wineCardContainer {
+    display: flex;
+    width: 450px;
+    height: 500px;
+    flex-direction: column;
+}
+
+div .containerDetails {
+    margin-bottom: 10px;
+}

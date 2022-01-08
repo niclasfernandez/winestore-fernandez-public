@@ -1,0 +1,11 @@
+.allWines {
+    overflow-x: hidden;
+    display: flex;
+    padding: 50px;
+    padding-top: 120px;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 50px;
+}

@@ -1,0 +1,56 @@
+.checkOutContainer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.formContainer {
+    background-color: #672A4E;
+    color: mintcream;
+    display: flex;
+    width: 40vw;
+    height: 65vh;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 1px 10px rgba(0,0,0,1);
+    border-radius: 30px;
+}
+
+.deliveryForm {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 70%;
+    align-content: space-between;
+    justify-content: space-evenly;
+    align-items: stretch;
+    height: 100%;
+    
+}
+
+.mercadoPago {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 210px;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 0px 1px 10px rgba(0,0,0,1);
+    border-radius: 30px;
+}
+
+input {
+    height: 35px;   
+}
